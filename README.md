@@ -1,10 +1,10 @@
-# 🛍️ Retail Sales Forecasting & Inventory Optimization System
+🛍️ Retail Sales Forecasting & Inventory Optimization System
 
-## 🚀 Project Overview
+🚀 Project Overview
 
 This project predicts future retail sales using Machine Learning and provides intelligent inventory recommendations like Safety Stock and Reorder Point.
 
-## 🎯 Key Features
+🎯 Key Features
 
 * 📊 Sales Forecasting using Random Forest
 * 🧠 Feature Engineering (Lag features, rolling mean)
@@ -14,38 +14,42 @@ This project predicts future retail sales using Machine Learning and provides in
   * Reorder Point Prediction
 * 📈 Data Visualization (Actual vs Predicted Sales)
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
 * Python
 * Pandas, NumPy
 * Scikit-learn
 * Matplotlib
 
-## 📊 Output Example
+📊 Output Example
 
 * Forecast vs Actual graph
 * Inventory recommendations
+  
+🎥 Project Demo
 
-## 📂 Project Structure
+Watch Demo Video
+
+📂 Project Structure
 
 * `data/` → dataset
 * `src/` → modular code
 * `outputs/` → results
 * `main.py` → pipeline execution
 
-## ▶️ How to Run
+▶️ How to Run
 
 ```bash
 pip install -r requirements.txt
 python main.py
 ```
 
-## 📌 Results
+📌 Results
 
 * Accurate sales predictions
 * Smart inventory decisions reducing stockouts
 
-## 🌟 Future Improvements
+🌟 Future Improvements
 
 * Deploy as Web App
 * Add real-time data
